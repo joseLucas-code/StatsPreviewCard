@@ -1,2 +1,3 @@
-# Background-Flipper
-Random Background colors
+# Stats Preview Card
+
+Um simples Card
